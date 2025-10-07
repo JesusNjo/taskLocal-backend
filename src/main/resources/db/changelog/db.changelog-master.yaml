@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: classpath:liquibase/initial.db.tables.sql
+  - include:
+      file: classpath:liquibase/dev.sprint.01.sql
