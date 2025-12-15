@@ -7,6 +7,6 @@
 -- Author: FRANCISCO NARANJO
 
 
-DROP SCHEMA IF EXISTS `tasklocal`;
+DROP SCHEMA IF EXISTS `reservation_app`;
 
-CREATE SCHEMA `tasklocal` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci ;
+CREATE SCHEMA `reservation_app` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci ;
